@@ -1,5 +1,5 @@
 # py_simple_logs  
-## Wrapper for simplyyfying usage of logging module
+## Wrapper for simplyfying usage of logging module
 
 ### Installation  
 Install with ```pip install simple_logs```  
