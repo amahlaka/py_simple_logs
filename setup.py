@@ -8,11 +8,11 @@ import warnings
 
 dynamic_requires = []
 
-version = 0.1
+version = 0.2
 
 setup(
-    name='Simple_logs',
-    version=0.1,
+    name='SimpleLogs',
+    version=0.3,
     author='Arttu Mahlakaarto',
     author_email='Arttu.mahlakaarto@gmail.com',
     url='http://github.com/amahlaka/py_simple_logs',
