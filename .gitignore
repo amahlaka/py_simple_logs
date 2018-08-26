@@ -3,3 +3,10 @@ cache-downloads
 inspector
 api
 source/inspector.html
+.vscode/settings.json
+*.gz
+SimpleLogs.egg-info/not-zip-safe
+SimpleLogs.egg-info/top_level.txt
+SimpleLogs.egg-info/PKG-INFO
+SimpleLogs.egg-info/SOURCES.txt
+SimpleLogs.egg-info/dependency_links.txt
